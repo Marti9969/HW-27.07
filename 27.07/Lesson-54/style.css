@@ -1,0 +1,35 @@
+body {
+    background: #000;
+}
+
+p {
+    color: white;
+}
+
+.straight {
+    position: absolute;
+    width: 50%;
+    right: 50px;
+    bottom: 100px;
+}
+
+.block-1 {
+    background: wheat;
+    width: 900px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.block-2 {
+    position: relative;
+    top: 570px;
+    width: 50%;
+    left: 950px;
+}
+
+.circle {
+    background: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}

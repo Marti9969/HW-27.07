@@ -1,0 +1,34 @@
+.container {
+    width: 1700px;
+    height: 800px;
+    border: 2px dashed #000;
+} 
+
+.green {
+    transform: translate(30px, 30px);
+    width: 200px;
+    height: 200px;
+    background: green;
+    transform: translate(910px, 90px) rotate(45deg);
+}
+
+
+.blue {
+    width: 200px;
+    height: 200px;
+    background: blue;
+    transform: translate(1396px, -101px) scale(2) rotate(180deg)
+}
+
+.red {
+    transform: translate(911px, 197px);
+    width: 200px;
+    height: 200px;
+    background: red;
+}
+
+
+p {
+    text-align: center;
+    color: white;
+}
